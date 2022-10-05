@@ -26,7 +26,7 @@ $ ./gradlew bootRun
 
 This service exposes a set of endpoints that allows a user to manage a set of a todo list.
 
-This project also comes with a [Postman collection](Todo Collection.postman_collection.json), that contains all the
+This project also comes with a [Postman collection](todo.postman_collection.json), that contains all the
 endpoints and their respective request bodies.
 
 ### Endpoints descriptions
